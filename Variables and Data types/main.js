@@ -4,6 +4,7 @@
 // let city = null;              //null
 // let country;                  //undefined
 // console.table(name, age, isMarried, city, country); //Abdulrehman 20 false null undefined
+//
 
 
 
