@@ -19,8 +19,8 @@ console.log(0);
 
 
 // pop is working last element remove
-myArr.pop();
-console.log(myArr);
+myHerros.pop();
+console.log(myHerros);
 
 
 
@@ -47,3 +47,16 @@ console.log(myArr3);
 //includes is working true or false
 console.log(myArr.includes(5));
 console.log(myArr.includes(9));
+
+
+
+
+
+// let a = 6;
+// let b = "2";
+
+
+// a===b;
+
+
+// console.log(a > ++b);
