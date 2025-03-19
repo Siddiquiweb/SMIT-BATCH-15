@@ -15,18 +15,18 @@
 ### ✅ Quiz 1 (Chap `1` - `20`)
 
 - [x] alert, prompt and console
-- [ ] Variables and Data types
-- [ ] Converting strings to numbers (Parsing numbers)
-- [ ] Operators
+- [x] Variables and Data types
+- [x] Converting strings to numbers (Parsing numbers)
+- [x] Operators
   - [x] Arithmetic operators
-  - [ ] Comparison operators
-  - [ ] Assignment operators
-  - [ ] Logical operators
+  - [x] Comparison operators
+  - [x] Assignment operators
+  - [x] Logical operators
 - [x] Precedence (BODMAS)
-- [ ] Concatenating text strings ``
-- [ ] if else statements (ternary)
-  - [ ] else if / nested if else
-- [ ] Array
+- [x] Concatenating text strings ``
+- [x] if else statements (ternary)
+  - [x] else if / nested if else
+- [x] Array
   - [ ] Adding and removing elements
   - [ ] push, pop, shift, unshift, slice, splice
 - [ ] Loops
