@@ -61,7 +61,7 @@ console.log(myArr.includes(9));
 
 // console.log(a > ++b);
 let age = 50;
-let res = "pak";
+let res = "uae";
 
 false || (true && false);
 false || false; // false
@@ -96,12 +96,12 @@ fruits.splice(3, 1); // remove pineapple
 
 // shuru se
 // not recommended
-fruits.unshift("shehzad");
+fruits.unshift("abdulrehman", "shahzaib");
 
 fruits.shift();
 fruits.shift();
 
-fruits[1] = "shehzad";
+fruits[1] = "abdulrehman";
 
 // ulta karde ga
 console.log(fruits.reverse());
